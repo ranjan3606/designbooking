@@ -7,7 +7,7 @@ import './Footer.css'
 export default class Footer extends Component {
     render() {
         return (
-            <section className="section section-footer darken-2 white-text center scrollspy">
+            <section className="section section-footer  blue darken-3 white-text center scrollspy">
                 <div className="row">
                     <div className="col s12">
                         <h4>Follow Us</h4>
